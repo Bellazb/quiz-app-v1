@@ -1,0 +1,1 @@
+This Java quiz application enables users to test their knowledge with 10 multiple-choice questions on various topics. Users input answers, and the app tracks correct and incorrect responses, providing a final score. Utilizing the Scanner class for input, it’s a fun way to reinforce learning and assess knowledge.
